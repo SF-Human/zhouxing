@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://HumanChannel.github.io</id>
     <title>深空星尘工作室</title>
-    <updated>2023-07-19T02:02:33.126Z</updated>
+    <updated>2023-07-19T07:34:54.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://HumanChannel.github.io"/>
     <link rel="self" href="https://HumanChannel.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://HumanChannel.github.io/images/avatar.png</logo>
     <icon>https://HumanChannel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, 深空星尘工作室</rights>
+    <entry>
+        <title type="html"><![CDATA[深空星尘时尚生活频道即将启播]]></title>
+        <id>https://HumanChannel.github.io/post/DMNMY_X1F/</id>
+        <link href="https://HumanChannel.github.io/post/DMNMY_X1F/">
+        </link>
+        <updated>2023-07-19T02:11:33.000Z</updated>
+        <content type="html"><![CDATA[<p>时尚生活频道是由深空星尘工作室与<a href="http://nrt-media.mysxl.cn">NRT-Media</a>合作开办的一个全新的直播频道，与文体娱乐频道侧重的宏观大众娱乐不同，时尚生活频道将侧重于相对小众的兴趣爱好和生活方式，给大家带来不一样的视听体验，频道将在2023年7月25日正式启播，届时可前往本站“直播”选项卡或@SelfMedia-Live 的直播间进行收看。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023/07/20 直播预告]]></title>
         <id>https://HumanChannel.github.io/post/FivrowWk_/</id>
@@ -66,38 +75,6 @@ MLTS工作室《车迷进行时》<br>
 等其他自媒体工作室的节目。<br>
 预计播出时间：3小时左右<br>
 欢迎前往本站“直播”选项卡进行收看。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深空星尘发展史（？）]]></title>
-        <id>https://HumanChannel.github.io/post/history/</id>
-        <link href="https://HumanChannel.github.io/post/history/">
-        </link>
-        <updated>2023-07-16T12:40:22.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="2018年">2018年</h2>
-<p>2018年8月15日，“鳄鱼君”在B站的账号转正成功。</p>
-<h2 id="2022年">2022年</h2>
-<ol>
-<li>3月15日，以“鳄鱼君”的名义发布首个视频节目《鳄鱼君有话说》。</li>
-<li>4月22日，深空星尘工作室正式在账号@S-Human 上成立，时称“HumanChannel自媒体”。</li>
-<li>5月4日，深空星尘工作室直播频道开始在TV768联播网内部试播。</li>
-<li>5月10日，深空星尘工作室流星卡通频道开始试播。</li>
-<li>6月26日，流星卡通频道正式开播。</li>
-<li>7月12日，发布首个音频节目《鳄鱼君早班车》。（不过不久就忘掉了。。。）</li>
-<li>7月14日，开播“星尘卫视”及“教育·娱乐频道”、“时尚·数码频道”，作为临时性直播频道。</li>
-<li>8月起，开始尝试无人值守直播。</li>
-<li>9月3日，“星尘卫视”停播；同时“教育·娱乐频道”、“时尚·数码频道”加入TV768联播网。</li>
-<li>10月1日，流星卡通频道新版设计风格启用。</li>
-<li>10月30日左右，由于大量不良人士骚扰工作室官方账号，工作室运营陷入困境。</li>
-<li>12月20日左右，工作室恢复正常运营，但仍然有小部分不良人士对本工作室进行骚扰。</li>
-</ol>
-<h2 id="2023年">2023年</h2>
-<ol>
-<li>1月1日起，直播频道无人值守开始常态化。</li>
-<li>3月1日，流星卡通频道与主频同步包装设计风格。</li>
-<li>7月1日，远舟团成立。</li>
-<li>7月10日起，“教育·娱乐频道”、“时尚·数码频道”合并为“文体娱乐频道”，其作为转播频道的职能将移交至主频。</li>
-</ol>
 ]]></content>
     </entry>
 </feed>
