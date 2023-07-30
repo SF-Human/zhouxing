@@ -1,3 +1,11 @@
+公告,#genre#
+最近更新时间：2023/07/30,http://123.6.9.146:80/live/jz-cctv-1/live.m3u8
+修复了一些已知问题，移除了him,http://123.6.9.146:80/live/jz-cctv-1/live.m3u8
+聚合资源均收集自网络,http://123.6.9.146:80/live/jz-cctv-1/live.m3u8
+仅供学习交流之用,http://123.6.9.146:80/live/jz-cctv-1/live.m3u8
+严禁用于非法用途,http://123.6.9.146:80/live/jz-cctv-1/live.m3u8
+如果喜欢，请支持正版,http://123.6.9.146:80/live/jz-cctv-1/live.m3u8
+
 央视频道,#genre#
 CCTV-1综合,http://123.6.9.146:80/live/jz-cctv-1/live.m3u8#https://p2bj.vzan.com/slowlive/370695204282223316/live.m3u8?zbid=7028&tpid=809050927&type=0
 CCTV-2财经,http://cyz32.livehbindex.hbcatv.cn/live/50000020d7ae404dbd55b5d0ba6fe735.m3u8?bitrate=2300&pt=5#http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8#http://lu1.cc/c/tv/php/cqyx.php?id=cctv2
@@ -87,7 +95,7 @@ NewTV精品纪录,http://111.40.196.32:443/PLTV/88888888/224/3221225630/1.m3u8
 乐游频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226536/index.m3u8#http://lu1.cc/c/tv/php/gudou.php?id=lyhd#http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 欢笑剧场,http://edu.live.cbncdn.cn/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8#http://lu1.cc/c/tv/php/best.php?id=hxjc#http://lu1.cc/c/tv/php/best.php?id=hxjc4k
-点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+点掌财经,https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 
 重庆频道,#genre#
 重庆新闻,http://lu1.cc/c/tv/cqtv/cqxl.php?id=cqxw
@@ -135,7 +143,7 @@ NewTV精品纪录,http://111.40.196.32:443/PLTV/88888888/224/3221225630/1.m3u8
 深圳体育健康,http://lu1.cc/c/tv/php/tide.php?id=sztyjk
 龙岗综合,https://lglivepull.sznews.com/live/2647.m3u8
 龙岗东部,https://lglivepull.sznews.com/live/2646.m3u8
-蛇口综合,http://120.204.20.48/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel37/index.m3u8
+蛇口综合,http://118.180.43.140/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel37/index.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
@@ -350,6 +358,9 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 摄影频道,http://lu1.cc/c/tv/php/cqyx.php?id=sypd#http://121.51.249.73/livehkkp.chinamcache.com/live/sy.m3u8#http://lu1.cc/c/tv/php/scgd.php?id=sypd#http://lu1.cc/c/tv/php/yqgd.php?id=sypd#http://edu.live.cbncdn.cn/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225683/1/index.m3u8?fmt=ts2hls
 天元围棋,http://lu1.cc/c/tv/php/cqyx.php?id=tywq#http://121.51.249.73/livehkkp.chinamcache.com/live/tywq.m3u8#http://lu1.cc/c/tv/php/scgd.php?id=tywq#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225714/1/index.m3u8?fmt=ts2hls
 
+陕西频道,#genre#
+镇安综合,http://lu1.cc/c/tv/php/qkxl.php?id=zatv
+
 动漫频道,#genre#
 广东嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 湖南金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8#http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&programid=4200900038&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226246/index.m3u8?fmt=ts2hls#http://lu1.cc/c/tv/huntv/mgxl.php?id=jykt&fmt=hls
@@ -383,18 +394,6 @@ SiTV动漫秀场,http://edu.live.cbncdn.cn/__cl/cg:live/__c/dmxcHD/__op/default/
 求索科学,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 广东纪录,https://glive.grtn.cn/live/jilupian.m3u8
-
-其他频道,#genre#
-镇安综合,http://lu1.cc/c/tv/php/qkxl.php?id=zatv
-测试1,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8#http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8#http://103.112.191.9:880/LAOSAT1015.m3u8#http://lu1.cc/c/tv/gatv/fhx.php?id=fhzw&fmt=flv#http://lu1.cc/c/tv/gatv/fhx2.php?id=fhzw#http://lu1.cc/c/tv/php/gudou.php?id=fhzw#http://lu1.cc/c/tv/php/cqyx.php?id=fhzw
-测试2,http://lu1.cc/c/tv/gatv/fhx.php?id=fhzx&fmt=hls#http://lu1.cc/c/tv/gatv/fhx2.php?id=fhzx
-测试3,http://lu1.cc/c/tv/gatv/fhx2.php?id=fhhk#http://lu1.cc/c/tv/gatv/fhx.php?id=fhhk&fmt=hls
-测试4,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-测试5,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-测试6,http://ali-play.lezhibo.com/lezhibo/d803719995ab40df83fca5e638cac7f4.m3u8
-测试7,http://lu1.cc/c/tv/php/gudou.php?id=fct
-测试8,http://lu1.cc/c/tv/php/gudou.php?id=mzt
-测试9,https://pull-hls-l6-hs.pstatp.com/live/tv_hetv.m3u8
 
 广播专区,#genre#
 惠州综合广播,http://stream.hztvmg.com/gbtest2/sd/live.m3u8#https://ls.qingting.fm/live/5016/64k.m3u8
