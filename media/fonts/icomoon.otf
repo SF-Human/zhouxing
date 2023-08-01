@@ -42,12 +42,9 @@ CCTV+4,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL4.smil/playlist
 中学生,http://lu1.cc/c/tv/php/migu.php?id=zxs
 体育赛事,http://lu1.cc/c/tv/php/migu.php?id=cctv5p#http://edu.live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
 早期教育,http://lu1.cc/c/tv/php/cqyx.php?id=zqjy
-中国交通·海南,https://tv.lanjingfm.com/cctbn/hainan.m3u8
-中国交通·河北,https://tv.lanjingfm.com/cctbn/heibei.m3u8
-中国交通·贵州,http://cdnrrs.gz.chinamobile.com/PLTV/88888893/224/3221226286/1/index.m3u8?fmt=ts2hls#http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888893/224/3221226286/1/index.m3u8?fmt=ts2hls
+中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8#https://tv.lanjingfm.com/cctbn/heibei.m3u8#http://cdnrrs.gz.chinamobile.com/PLTV/88888893/224/3221226286/1/index.m3u8?fmt=ts2hls#http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888893/224/3221226286/1/index.m3u8?fmt=ts2hls
 中国经济,https://livepgc.chinamcache.com/pgc/ece75f76eaabce9f18d91588a90096cd.m3u8?auth_key=1688087053-0-0-23cbf908cc7d7529b5f3a0d862bbf503
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8#http://edu.live.cbncdn.cn/__cl/cg:live/__c/tianqiSD/__op/default/__f/index.m3u8#http://lu1.cc/c/tv/php/gudou.php?id=zgtq#http://lu1.cc/c/tv/php/best.php?id=zgtq
-证券资讯,http://edu.live.cbncdn.cn/__cl/cg:live/__c/jiazheng/__op/default/__f/index.m3u8#http://121.51.249.73/livehkkp.chinamcache.com/live/jz.m3u8#http://lu1.cc/c/tv/php/scgd.php?id=zqfw#http://lu1.cc/c/tv/php/cqyx.php?id=zqfw
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
@@ -261,7 +258,7 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 象视界,http://lu1.cc/c/tv/hntv/hntv.php?id=xsj
 睛彩中原,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8#http://lu1.cc/c/tv/hntv/hntv.php?id=jczy
 中华功夫,http://www.cdnstv.com:9901/tsfile/live/1121_1.m3u8
-收藏天下~,http://www.cdnstv.com:9901/tsfile/live/1119_1.m3u8
+河南收藏天下,http://www.cdnstv.com:9901/tsfile/live/1119_1.m3u8
 百姓调解,http://www.cdnstv.com:9901/tsfile/live/1072_1.m3u8
 棋牌汇,http://www.cdnstv.com:9901/tsfile/live/1123_1.m3u8
 
@@ -310,6 +307,7 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 收藏天下,http://lu1.cc/c/tv/php/cqyx.php?id=sctx#http://lu1.cc/c/tv/php/yqgd.php?id=sctx
 中华美食,http://gslbserv.itv.cmvideo.cn:80/1000000005000266015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266015&livemode=1&stbId=3#http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8#http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-zhmeishi/1.m3u8#http://39.134.136.158:6610/000000001000/2000000003000000052/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000052&livemode=1&stbId=3$ITV[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221227647/index.m3u8
 纪录片轮播,http://80603193.xyz:4200/udp/239.21.1.130:5002
+
 安徽频道,#genre#
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225773/1.m3u8
 安徽导视,https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
@@ -334,7 +332,7 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 
 辽宁频道,#genre#
 辽宁卫视,http://lu1.cc/c/tv/php/migu.php?id=lnws
-丹东综合,http://lu1.cc/c/tv/lntv/ddxl.php#http://59.47.133.234:64230/live
+丹东综合,http://lu1.cc/c/tv/lntv/ddxl.php#http://59.47.133.234:64230/live#http://liveplus.lztv.tv/xwzh/HD/live.m3u8
 丹东生活,http://59.47.133.234:64231/live
 家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8#http://lu1.cc/c/tv/php/yqgd.php?id=jtlc#http://lu1.cc/c/tv/php/bfgd.php?id=jtlc
 北方导视,http://lu1.cc/c/tv/php/bfgd.php?id=bfds
@@ -359,6 +357,7 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8#http://streamings.hrbtv.net/32252e6968d448a29e1ec99cd4609ae3/h264_400k_ts/index.m3u8?type=hls_live_redirect
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8#http://streamings.hrbtv.net/392a5d168cef46ceae6af7462e678789/h264_400k_ts/index.m3u8?type=hls_live_redirect
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8#http://streamings.hrbtv.net/4f28da88b8984bcbbced624179617f2c/h264_400k_ts/index.m3u8?type=hls_live_redirect
+依兰综合,http://masterpull.hljtv.com/live/4sTJDdbE.m3u8
 七台河矿区,http://p6.vzan.com/slowlive/745414374402065417/live.m3u8
 宁安综合,http://lu1.cc/c/tv/php/gdy1.php?id=nazh
 
@@ -377,6 +376,7 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 成都少儿,http://lu1.cc/c/tv/sctv/cdxl.php?id=cdtv6hd&fmt=hls#http://lu1.cc/c/tv/sctv/cdxl.php?id=cdtv6hd&fmt=flv
 成都购物,http://lu1.cc/c/tv/sctv/cdxl.php?id=cdtv8hd&fmt=hls
 成都铁路,http://gslbserv.itv.cmvideo.cn/6000000007000150001/1.m3u8?channel-id=wasusyt&Contentid=6000000007000150001&livemode=1&stbId=3#http://gslbserv.itv.cmvideo.cn/6000000007000150002/1.m3u8?channel-id=wasusyt&Contentid=6000000007000150002&livemode=1&stbId=3
+
 蓉城先锋,http://lu1.cc/c/tv/sctv/cdxl.php?id=cdrcxfhd&fmt=hls#http://lu1.cc/c/tv/sctv/cdxl.php?id=cdrcxf&fmt=hls
 中录动漫,http://hjb.mba:8888/udp/239.93.1.188:5140
 亲子趣学,http://hjb.mba:8888/udp/239.93.1.191:5140
@@ -432,6 +432,19 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 龙岩公共,http://stream.lytv.net.cn/1/sd/live.m3u8
 仙游频道,http://lu1.cc/c/tv/fjtv/pttv1.php?id=ptxy
 
+甘肃频道,#genre#
+甘肃经济,http://lu1.cc/c/tv/gstv/gsxl.php?id=gsjj
+甘肃影视,http://lu1.cc/c/tv/gstv/gsxl.php?id=gswh
+甘肃公共,http://lu1.cc/c/tv/gstv/gsxl.php?id=gsgg#http://lu1.cc/c/tv/php/dhxl.php?id=gsgg
+甘肃都市,http://lu1.cc/c/tv/gstv/gsxl.php?id=gsds
+甘肃少儿,http://lu1.cc/c/tv/gstv/gsxl.php?id=gsse
+甘肃移动,http://lu1.cc/c/tv/gstv/gsxl.php?id=gsyd
+兰州新闻,http://liveplus.lztv.tv/xwzh/HD/live.m3u8
+兰州生活,http://liveplus.lztv.tv/jjpd/HD/live.m3u8
+兰州文旅,http://liveplus.lztv.tv/wlpd/HD/live.m3u8
+兰州铁路,rtmp://pili-live-hdl-lrfmc.tianma3600.com/lztl/lantiepindao
+兰州石化,rtmp://play.kankanlive.com/live/1651824590053902#http://play.kankanlive.com/live/1651824590053902.flv
+证券资讯,http://edu.live.cbncdn.cn/__cl/cg:live/__c/jiazheng/__op/default/__f/index.m3u8#http://121.51.249.73/livehkkp.chinamcache.com/live/jz.m3u8#http://lu1.cc/c/tv/php/scgd.php?id=zqfw#http://lu1.cc/c/tv/php/cqyx.php?id=zqfw
 
 广播专区,#genre#
 惠州综合广播,http://stream.hztvmg.com/gbtest2/sd/live.m3u8#https://ls.qingting.fm/live/5016/64k.m3u8
