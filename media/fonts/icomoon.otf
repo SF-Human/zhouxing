@@ -71,7 +71,7 @@ NewTV精品纪录,http://111.40.196.32:443/PLTV/88888888/224/3221225630/1.m3u8
 百姓健康,https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
 中华特产,http://www.cdnstv.com:9901/tsfile/live/1171_1.m3u8#http://edu.live.cbncdn.cn/__cl/cg:live/__c/techan/__op/default/__f/index.m3u8#http://lu1.cc/c/tv/php/cqyx.php?id=zhtc#http://lcx-olt.8866.org:8181/tsfile/live/1045_1.m3u8#http://lu1.cc/c/tv/hntv/hntv.php?id=zhtc
 生态环境,http://edu.live.cbncdn.cn/__cl/cg:live/__c/shengtai/__op/default/__f/index.m3u8#http://lu1.cc/c/tv/php/cqyx.php?id=sthj
-优优宝贝,http://www.chengxueguo.cn:8888/udp/233.50.202.24:5140
+优优宝贝,http://www.372583307.top:4022/udp/233.50.202.24:5140
 清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 环球旅游,http://lu1.cc/c/tv/php/cqyx.php?id=hqly
 置业频道,http://111.20.35.103:6610/yinhe/2/ch00000090990000001318/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -119,6 +119,7 @@ NewTV精品纪录,http://111.40.196.32:443/PLTV/88888888/224/3221225630/1.m3u8
 广东影视,http://lu1.cc/c/tv/php/migu.php?id=gdys
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 广东少儿,http://lu1.cc/c/tv/php/itouch.php?id=gdse#http://lu1.cc/c/tv/php/gudou.php?id=gdse
+广东体育,http://tengyunair.xyz:4022/udp/239.77.1.97:5146#http://tengyunair.xyz:4022/udp/239.77.0.6:5146
 广州综合,https://justsometime.gztv.com/sec/zhonghe.m3u8
 广州新闻,https://justsometime.gztv.com/sec/xinwen.m3u8
 广州法治,https://justsometime.gztv.com/sec/fazhi.m3u8
@@ -142,9 +143,11 @@ NewTV精品纪录,http://111.40.196.32:443/PLTV/88888888/224/3221225630/1.m3u8
 深圳都市,http://lu1.cc/c/tv/php/tide.php?id=szds
 深圳少儿,http://lu1.cc/c/tv/php/tide.php?id=szse
 深圳体育健康,http://lu1.cc/c/tv/php/tide.php?id=sztyjk
-龙岗综合,https://lglivepull.sznews.com/live/2647.m3u8
-龙岗东部,https://lglivepull.sznews.com/live/2646.m3u8
-龙岗众创TV,https://lglivepull.sznews.com/live/2645.m3u8
+深圳众创TV,https://lglivepull.sznews.com/live/2645.m3u8#http://tengyunair.xyz:4022/udp/239.77.1.247:5146
+宝安综合,http://tengyunair.xyz:4022/udp/239.77.1.67:5146
+宝安第一课,http://tengyunair.xyz:4022/udp/239.77.1.225:5146
+龙岗综合,https://lglivepull.sznews.com/live/2647.m3u8#http://tengyunair.xyz:4022/udp/239.77.1.223:5146
+龙岗东部,https://lglivepull.sznews.com/live/2646.m3u8#http://tengyunair.xyz:4022/udp/239.77.1.224:5146
 蛇口综合,http://118.180.43.140/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel37/index.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
@@ -375,7 +378,9 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 成都购物,http://lu1.cc/c/tv/sctv/cdxl.php?id=cdtv8hd&fmt=hls
 成都铁路,http://gslbserv.itv.cmvideo.cn/6000000007000150001/1.m3u8?channel-id=wasusyt&Contentid=6000000007000150001&livemode=1&stbId=3#http://gslbserv.itv.cmvideo.cn/6000000007000150002/1.m3u8?channel-id=wasusyt&Contentid=6000000007000150002&livemode=1&stbId=3
 蓉城先锋,http://lu1.cc/c/tv/sctv/cdxl.php?id=cdrcxfhd&fmt=hls#http://lu1.cc/c/tv/sctv/cdxl.php?id=cdrcxf&fmt=hls
-
+中录动漫,http://hjb.mba:8888/udp/239.93.1.188:5140
+亲子趣学,http://hjb.mba:8888/udp/239.93.1.191:5140
+津津悦读,http://hjb.mba:8888/udp/239.93.1.197:5140
 云南频道,#genre#
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
@@ -385,6 +390,7 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 美丽云南,https://www.ynbit.com:1937/cyds-mlyn/livestream/playlist.m3u8
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 云南国际,http://tvlive.ynradio.com/live/yunnanguoji/chunks.m3u8
+云南4K,http://116.55.177.67:4000/udp/239.200.200.178:8884
 昆明新闻,http://lu1.cc/c/tv/php/gdy1.php?id=kmzh
 昆明经济,http://lu1.cc/c/tv/php/gdy1.php?id=kmjj
 昆明科教,http://lu1.cc/c/tv/php/gdy1.php?id=kmkj
