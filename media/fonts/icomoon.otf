@@ -135,8 +135,8 @@ NewTV精品纪录,http://111.40.196.32:443/PLTV/88888888/224/3221225630/1.m3u8
 博罗综合,http://lu1.cc/c/tv/php/gudou.php?id=blzh#http://lu1.cc/c/tv/php/gudou.php?id=blzhhd
 深圳卫视,http://lu1.cc/c/tv/php/tide.php?id=szws#http://lu1.cc/c/tv/gdtv/sztv.php?id=szws#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 深圳国际,http://lu1.cc/c/tv/php/tide.php?id=szgj
-深圳娱乐,http://lu1.cc/c/tv/gdtv/tide.php?id=szyl
-深圳移动,http://lu1.cc/c/tv/gdtv/tide.php?id=szyd
+深圳娱乐,http://lu1.cc/c/tv/php/tide.php?id=szyl
+深圳移动,http://lu1.cc/c/tv/php/tide.php?id=szyd
 深圳电视剧,http://lu1.cc/c/tv/php/tide.php?id=szdsj
 深圳公共,http://lu1.cc/c/tv/php/tide.php?id=szgg
 深圳财经,http://lu1.cc/c/tv/php/tide.php?id=szcjsh
@@ -363,7 +363,7 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 宁安综合,http://lu1.cc/c/tv/php/gdy1.php?id=nazh
 
 湖北频道,#genre#
-精彩影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT3049920230513034319012528&channel-id=wasusyt&Contentid=6000000006000320630
+精彩影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT3049920230513034319012528&channel-id=wasusyt&Contentid=6000000006000320630#http://office.gofaraway.top:888/udp/238.125.2.196:5140
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 枝江综合,http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1704038399-0-0-83fa74ca5e3befbc1c030c961206757c
@@ -381,6 +381,7 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 中录动漫,http://hjb.mba:8888/udp/239.93.1.188:5140
 亲子趣学,http://hjb.mba:8888/udp/239.93.1.191:5140
 津津悦读,http://hjb.mba:8888/udp/239.93.1.197:5140
+
 云南频道,#genre#
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
@@ -430,6 +431,7 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 龙岩综合,http://stream.lytv.net.cn/2/sd/live.m3u8
 龙岩公共,http://stream.lytv.net.cn/1/sd/live.m3u8
 仙游频道,http://lu1.cc/c/tv/fjtv/pttv1.php?id=ptxy
+
 
 广播专区,#genre#
 惠州综合广播,http://stream.hztvmg.com/gbtest2/sd/live.m3u8#https://ls.qingting.fm/live/5016/64k.m3u8
