@@ -53,6 +53,9 @@ NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 NewTV精品纪录,http://111.40.196.32:443/PLTV/88888888/224/3221225630/1.m3u8
 直播中国,http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 
+深空星尘,#genre#
+深空星尘直播部,https://pull-vdslive.huoyinetwork.cn/live/71.m3u8
+
 北京频道,#genre#
 北京卫视,http://39.137.67.167:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/index.m3u8?IAS#http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8#http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231732/index.m3u8#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8#http://lu1.cc/c/tv/php/migu.php?id=bjws
 北京生活,http://39.137.67.167:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226561/index.m3u8?IAS#http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8#http://221.179.136.146:443/PLTV/88888888/224/3221226561/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKevbKlK+Xph+b1r8gRT8xH6rfvTyy+7HLCUsK6ruw47JA==,,END
@@ -112,11 +115,11 @@ NewTV精品纪录,http://111.40.196.32:443/PLTV/88888888/224/3221225630/1.m3u8
 大湾区卫视,http://lu1.cc/c/tv/php/itouch.php?id=nfws#http://lu1.cc/c/tv/php/migu.php?id=dwqws
 广东民生,http://lu1.cc/c/tv/php/itouch.php?id=gdms#http://lu1.cc/c/tv/php/gudou.php?id=gdms
 广东经济科教,http://lu1.cc/c/tv/php/itouch.php?id=gdjjkj#http://lu1.cc/c/tv/php/gudou.php?id=gdjjkj
-广东综艺,http://lu1.cc/c/tv/php/gudou.php?id=gdzy4k#http://lu1.cc/c/tv/php/itouch.php?id=gdzy#http://lu1.cc/c/tv/gdtv/gdtv.php?id=gdzy
 广东影视,http://lu1.cc/c/tv/php/migu.php?id=gdys
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 广东少儿,http://lu1.cc/c/tv/php/itouch.php?id=gdse#http://lu1.cc/c/tv/php/gudou.php?id=gdse
 广东体育,http://58.61.148.28:8088/udp/239.77.1.97:5146#http://58.61.148.28:8088/udp/239.77.0.6:5146
+广东4K,http://lu1.cc/c/tv/php/gudou.php?id=gdzy4k#http://lu1.cc/c/tv/gdtv/gdtv.php?id=gdzy
 广州综合,https://justsometime.gztv.com/sec/zhonghe.m3u8
 广州新闻,https://justsometime.gztv.com/sec/xinwen.m3u8
 广州法治,https://justsometime.gztv.com/sec/fazhi.m3u8
@@ -127,8 +130,8 @@ NewTV精品纪录,http://111.40.196.32:443/PLTV/88888888/224/3221225630/1.m3u8
 增城综合,http://pl1.cloud.dayang.com.cn/live/10062_E5i2s6.m3u8
 惠州综合,http://stream.hztvmg.com/channel5/sd/live.m3u8#http://lu1.cc/c/tv/php/gudou.php?id=hz1hd
 惠州公共,http://lu1.cc/c/tv/php/gudou.php?id=hz2hd
-惠阳综合,http://lu1.cc/c/tv/php/itouch.php?id=hytv#http://lu1.cc/c/tv/php/gudou.php?id=hyzh
-惠东综合,http://lu1.cc/c/tv/php/itouch.php?id=hdzh#http://lu1.cc/c/tv/php/gudou.php?id=hdzh
+惠阳综合,http://lu1.cc/c/tv/php/gudou.php?id=hyzh
+惠东综合,http://lu1.cc/c/tv/php/gudou.php?id=hdzh
 博罗综合,http://lu1.cc/c/tv/php/gudou.php?id=blzh#http://lu1.cc/c/tv/php/gudou.php?id=blzhhd
 深圳卫视,http://lu1.cc/c/tv/php/tide.php?id=szws#http://lu1.cc/c/tv/gdtv/sztv.php?id=szws#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 深圳国际,http://lu1.cc/c/tv/php/tide.php?id=szgj
@@ -237,7 +240,7 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 开化综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
 开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 华数服务,http://125.210.152.19:9120/live/hzgq-hsfwgq-h264.m3u8
-浙江4K影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+华数4K影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 求索纪录,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3#http://125.210.152.19:9120/live/hzgq-qsjlgq-h264.m3u8#http://office.gofaraway.top:888/udp/238.125.5.108:5140
 求索动物,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索科学,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
@@ -268,7 +271,7 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 许昌公共,http://live.s23.net:2017/live/smil:xcgg.smil/playlist.m3u8
 许昌农科,http://live.s23.net:2017/live/smil:nykj.smil/playlist.m3u8
 睛彩许昌,http://live.s23.net:2017/live/smil:jcxc.smil/playlist.m3u8
-国学频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8#http://edu.live.cbncdn.cn/__cl/cg:live/__c/guoxue/__op/default/__f/index.m3u8#http://lu1.cc/c/tv/hntv/hntv.php?id=gxpd#http://lu1.cc/c/tv/php/yqgd.php?id=gxpd#http://lu1.cc/c/tv/php/cqyx.php?id=gxpd
+国学频道,http://lu1.cc/c/tv/hntv/hntv.php?id=gxpd#http://lu1.cc/c/tv/php/yqgd.php?id=gxpd#http://lu1.cc/c/tv/php/cqyx.php?id=gxpd
 武术世界,http://lu1.cc/c/tv/hntv/hntv.php?id=wssj#http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 梨园频道,http://lu1.cc/c/tv/hntv/hntv.php?id=hnly#http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 文物宝库,http://lu1.cc/c/tv/hntv/hntv.php?id=wwbk#http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
@@ -357,7 +360,7 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 丹东生活,http://59.47.133.234:64231/live
 家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8#http://lu1.cc/c/tv/php/yqgd.php?id=jtlc#http://lu1.cc/c/tv/php/bfgd.php?id=jtlc
 北方导视,http://lu1.cc/c/tv/php/bfgd.php?id=bfds
-新动漫,http://edu.live.cbncdn.cn/__cl/cg:live/__c/dongman/__op/default/__f/index.m3u8#http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&programid=4200900104&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10.m3u8#http://39.136.48.20:8089/PLTV/88888888/224/3221226366/index.m3u8#http://[2409:8087:5011:1020::29]/180000001002/00000001000000000050000000448837/main.m3u8?IASHttpSessionId=OTT#http://lu1.cc/c/tv/php/as.php?id=xdm#http://lu1.cc/c/tv/php/gudou.php?id=xdm
+新动漫,http://lu1.cc/c/tv/php/bfgd.php?id=xdm#http://39.136.48.20:8089/PLTV/88888888/224/3221226366/index.m3u8#http://[2409:8087:5011:1020::29]/180000001002/00000001000000000050000000448837/main.m3u8?IASHttpSessionId=OTT#http://lu1.cc/c/tv/php/as.php?id=xdm#http://lu1.cc/c/tv/php/gudou.php?id=xdm
 传统文化,http://p2bj.vzan.com/slowlive/730909062204415173/live.m3u8?zbid=1934701221&tpid=1345717516
 
 吉林频道,#genre#
@@ -397,7 +400,6 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 成都少儿,http://lu1.cc/c/tv/sctv/cdxl.php?id=cdtv6hd&fmt=hls#http://lu1.cc/c/tv/sctv/cdxl.php?id=cdtv6hd&fmt=flv
 成都购物,http://lu1.cc/c/tv/sctv/cdxl.php?id=cdtv8hd&fmt=hls
 成都铁路,http://gslbserv.itv.cmvideo.cn/6000000007000150001/1.m3u8?channel-id=wasusyt&Contentid=6000000007000150001&livemode=1&stbId=3#http://gslbserv.itv.cmvideo.cn/6000000007000150002/1.m3u8?channel-id=wasusyt&Contentid=6000000007000150002&livemode=1&stbId=3
-
 蓉城先锋,http://lu1.cc/c/tv/sctv/cdxl.php?id=cdrcxfhd&fmt=hls#http://lu1.cc/c/tv/sctv/cdxl.php?id=cdrcxf&fmt=hls
 中录动漫,http://hjb.mba:8888/udp/239.93.1.188:5140
 亲子趣学,http://hjb.mba:8888/udp/239.93.1.191:5140
@@ -427,6 +429,7 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 天元围棋,http://lu1.cc/c/tv/php/cqyx.php?id=tywq#http://121.51.249.73/livehkkp.chinamcache.com/live/tywq.m3u8#http://lu1.cc/c/tv/php/scgd.php?id=tywq#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225714/1/index.m3u8?fmt=ts2hls
 
 陕西频道,#genre#
+农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 镇安综合,http://lu1.cc/c/tv/php/qkxl.php?id=zatv
 
 福建频道,#genre#
