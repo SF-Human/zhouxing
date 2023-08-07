@@ -56,6 +56,17 @@ NewTV精品纪录,http://111.40.196.32:443/PLTV/88888888/224/3221225630/1.m3u8
 深空星尘,#genre#
 深空星尘直播部,https://pull-vdslive.huoyinetwork.cn/live/71.m3u8
 
+精选频道,#genre#
+TV768,https://pull-vdslive.huoyinetwork.cn/live/122.m3u8#https://live.metshop.top/bilibili/24810294
+琉璃频道,https://pull-vdslive.huoyinetwork.cn/live/96.m3u8
+VDS-1,https://pull-vdslive.huoyinetwork.cn/live/vds1.m3u8
+VDS-2,https://pull-vdslive.huoyinetwork.cn/live/vds2.m3u8
+VDS-3,https://pull-vdslive.huoyinetwork.cn/live/vds3.m3u8
+VDS-4,https://pull-vdslive.huoyinetwork.cn/live/vds4.m3u8
+辉海视界,https://pull-vdslive.huoyinetwork.cn/live/99.m3u8
+沙雕卫视,https://pull-vdslive.huoyinetwork.cn/live/151.m3u8
+DBS频道,https://pull-vdslive.huoyinetwork.cn/live/84.m3u8
+
 北京频道,#genre#
 北京卫视,http://39.137.67.167:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/index.m3u8?IAS#http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8#http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231732/index.m3u8#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8#http://lu1.cc/c/tv/php/migu.php?id=bjws
 北京生活,http://39.137.67.167:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226561/index.m3u8?IAS#http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8#http://221.179.136.146:443/PLTV/88888888/224/3221226561/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKevbKlK+Xph+b1r8gRT8xH6rfvTyy+7HLCUsK6ruw47JA==,,END
@@ -74,10 +85,11 @@ NewTV精品纪录,http://111.40.196.32:443/PLTV/88888888/224/3221225630/1.m3u8
 优优宝贝,http://www.372583307.top:4022/udp/233.50.202.24:5140
 清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 环球旅游,http://lu1.cc/c/tv/php/cqyx.php?id=hqly
+不息传播,https://live.metshop.top/bilibili/24290456
 置业频道,http://111.20.35.103:6610/yinhe/2/ch00000090990000001318/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 车迷频道,http://lu1.cc/c/tv/php/cqyx.php?id=cmpd
 北京购物,http://tvlive.siqiangame.com/ugotvlive/aijiatv.m3u8?auth_key=1860547259-0-0-77940e9d27746d1ae88f7d31e81191d0
-不息传播,https://live.metshop.top/bilibili/24290456
+
 上海频道,#genre#
 上海东方卫视,http://123.6.9.146:80/live/jz-hunanweishi-gq/live.m3u8#http://lu1.cc/c/tv/shtv/shtv.php?id=dfws
 上海新闻综合,http://lu1.cc/c/tv/shtv/shtv.php?id=shxwzh
@@ -129,7 +141,7 @@ NewTV精品纪录,http://111.40.196.32:443/PLTV/88888888/224/3221225630/1.m3u8
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 增城综合,http://pl1.cloud.dayang.com.cn/live/10062_E5i2s6.m3u8
 惠州综合,http://stream.hztvmg.com/channel5/sd/live.m3u8#http://lu1.cc/c/tv/php/gudou.php?id=hz1hd
-惠州公共,http://lu1.cc/c/tv/php/gudou.php?id=hz2hd
+惠州公共,http://lu1.cc/c/tv/php/gudou.php?id=hz2hd#http://58.61.148.28:8088/udp/239.77.0.247:5146
 惠阳综合,http://lu1.cc/c/tv/php/gudou.php?id=hyzh
 惠东综合,http://lu1.cc/c/tv/php/gudou.php?id=hdzh
 博罗综合,http://lu1.cc/c/tv/php/gudou.php?id=blzh#http://lu1.cc/c/tv/php/gudou.php?id=blzhhd
@@ -148,19 +160,21 @@ NewTV精品纪录,http://111.40.196.32:443/PLTV/88888888/224/3221225630/1.m3u8
 宝安第一课,http://58.61.148.28:8088/udp/239.77.1.225:5146
 龙岗综合,https://lglivepull.sznews.com/live/2647.m3u8#http://58.61.148.28:8088/udp/239.77.1.223:5146
 龙岗东部,https://lglivepull.sznews.com/live/2646.m3u8#http://58.61.148.28:8088/udp/239.77.1.224:5146
-蛇口综合,http://118.180.43.140/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel37/index.m3u8
+蛇口综合,http://118.180.43.134/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel37/index.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 现代教育,http://lu1.cc/c/tv/gdtv/gdtv.php?id=xdjy
 岭南戏曲,http://lu1.cc/c/tv/gdtv/gdtv.php?id=lnxq
-健康频道,http://lu1.cc/c/tv/gdtv/gdtv.php?id=gdjk
+健康频道,http://glive.grtn.cn/live/health.flv
 文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+生活频道,http://glive.grtn.cn/live/life.flv
 广东纪录,https://glive.grtn.cn/live/jilupian.m3u8
 
 广西频道,#genre#
 钦州综合,http://stream.gxqzxw.com/qztv/zhhd/live.m3u8#http://stream.gxqzxw.com/qztv/playlist.m3u8?_upt=d198a9601658476258#http://stream.gxqztv.com/01/sd/live.m3u8
 钦州公共,http://stream.gxqzxw.com/qztv02/playlist.m3u8?_upt=a7c36fda1658476263#http://stream.gxqzxw.com/qztv02/gghd/live.m3u8#http://stream.gxqztv.com/qztv03/playlist.m3u8
+钦州钟表,https://pull-vdslive.huoyinetwork.cn/live/116.m3u8
 资源综合,http://rtmp.gdlive.gdmain.com/live/ln9r81z0.m3u8#http://rtmp.gdlive.gdmain.com/live/ln9r81z0.flv
 
 湖南频道,#genre#
@@ -428,6 +442,9 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 摄影频道,http://lu1.cc/c/tv/php/cqyx.php?id=sypd#http://121.51.249.73/livehkkp.chinamcache.com/live/sy.m3u8#http://lu1.cc/c/tv/php/scgd.php?id=sypd#http://lu1.cc/c/tv/php/yqgd.php?id=sypd#http://edu.live.cbncdn.cn/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225683/1/index.m3u8?fmt=ts2hls
 天元围棋,http://lu1.cc/c/tv/php/cqyx.php?id=tywq#http://121.51.249.73/livehkkp.chinamcache.com/live/tywq.m3u8#http://lu1.cc/c/tv/php/scgd.php?id=tywq#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225714/1/index.m3u8?fmt=ts2hls
 
+江西频道,#genre#
+盒儿综合,https://pull-hls-l6-hs.pstatp.com/live/tv_hetv.m3u8
+
 陕西频道,#genre#
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 镇安综合,http://lu1.cc/c/tv/php/qkxl.php?id=zatv
@@ -469,6 +486,24 @@ G导视,http://lu1.cc/c/tv/php/gudou.php?id=gdds
 兰州铁路,rtmp://pili-live-hdl-lrfmc.tianma3600.com/lztl/lantiepindao
 兰州石化,rtmp://play.kankanlive.com/live/1651824590053902#http://play.kankanlive.com/live/1651824590053902.flv
 证券资讯,http://edu.live.cbncdn.cn/__cl/cg:live/__c/jiazheng/__op/default/__f/index.m3u8#http://121.51.249.73/livehkkp.chinamcache.com/live/jz.m3u8#http://lu1.cc/c/tv/php/scgd.php?id=zqfw#http://lu1.cc/c/tv/php/cqyx.php?id=zqfw
+
+港澳频道,#genre#
+凤凰卫视,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8#http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8#http://103.112.191.9:880/LAOSAT1015.m3u8#http://lu1.cc/c/tv/gatv/fhx.php?id=fhzw&fmt=flv#http://lu1.cc/c/tv/gatv/fhx2.php?id=fhzw#http://lu1.cc/c/tv/php/gudou.php?id=fhzw#http://lu1.cc/c/tv/php/cqyx.php?id=fhzw
+凤凰资讯,http://lu1.cc/c/tv/gatv/fhx.php?id=fhzx&fmt=hls#http://lu1.cc/c/tv/gatv/fhx2.php?id=fhzx
+凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8#http://lu1.cc/c/tv/gatv/fhx2.php?id=fhhk#http://lu1.cc/c/tv/gatv/fhx.php?id=fhhk&fmt=hls
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+翡翠台,http://lu1.cc/c/tv/php/gudou.php?id=fct
+明珠台,http://lu1.cc/c/tv/php/gudou.php?id=mzt
+RTHK31,http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+星空卫视,http://103.112.191.9:880/LAOSAT1016.m3u8#http://lu1.cc/c/tv/php/gudou1.php?id=xkws
+Channel V,http://103.112.191.9:880/LAOSAT1070.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港文旅,http://ali-play.lezhibo.com/lezhibo/d803719995ab40df83fca5e638cac7f4.m3u8
+DBN频道,https://pull-vdslive.huoyinetwork.cn/live/139.m3u8
+澳亚卫视,http://lu1.cc/c/tv/php/gudou1.php?id=ayws#https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+莲花卫视,http://anren.live/HK/BiIOU11uLA.m3u8#http://lu1.cc/c/tv/gatv/lhws.php
+澳门卫视,http://61.244.22.5/ch3/ch3.live/playlist.m3u8
 
 广播专区,#genre#
 惠州综合广播,http://stream.hztvmg.com/gbtest2/sd/live.m3u8#https://ls.qingting.fm/live/5016/64k.m3u8
