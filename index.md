@@ -2,8 +2,12 @@
 舟行团是一个业余自媒体团队，主打纪录片、中古电玩领域，兼顾放送文化相关领域；2023年7月1日成立，原名“远舟团”。
 
 ## 观看直播
-<iframe src="https://sf-human.github.io/m3u8-player/player/#https://vdsbkup-tcloud-pull.hydun.com/live/SFhuman.m3u8" width="1280" height="720"></iframe>
-
+<iframe src="https://sf-human.github.io/m3u8-player/player/#https://vdsbkup-tcloud-pull.hydun.com/live/SFhuman.m3u8" width="1280px" height="720px" onload="resizeIframe(this)"></iframe>
+<script>
+function resizeIframe(iframe) {
+  iframe.style.height = iframe.contentWindow.document.documentElement.scrollHeight + 'px';
+}
+</script>
 [Powered by VDS LiveStream](http://lsnext.vds.pub/room/SFhuman)
 
 ### 更多纪录频道直播
