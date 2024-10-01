@@ -7,7 +7,7 @@
 [Powered by VDS LiveStream](http://lsnext.vds.pub/room/SFhuman)
 
 ### 更多纪录频道直播
-[CCTV-9纪录](https://tv.cctv.com/live/cctvjilu/) [北京纪实科教](https://www.btime.com/btv/btvsy_index) [上海纪实人文](https://live.kankanews.com/huikan) [湖南金鹰纪实](https://live.mgtv.com/?channelId=316) [浙江之江纪录](https://zmtv.cztv.com/cmsh5-share/prod/cztv-tvLive/index.html?pageId=112) [GRTN纪录片](https://gdtv.cn/tvChannelDetail/94) [不息传播](https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=24290456&quality=0) [深圳众创TV](https://zhfw-h5-t.szlg.com/#/subDownload/index) [郑州教育](https://web.chinamcloud.com/yszh32//wz/zb/index.shtml) [南京文旅纪录](http://www.nbs.cn/live/)
+[CCTV-9纪录](https://tv.cctv.com/live/cctvjilu/) [北京纪实科教](https://www.btime.com/btv/btvsy_index) [上海纪实人文](https://live.kankanews.com/huikan) [湖南金鹰纪实](https://live.mgtv.com/?channelId=316) [浙江之江纪录](https://zmtv.cztv.com/cmsh5-share/prod/cztv-tvLive/index.html?pageId=112) [GRTN纪录片](https://gdtv.cn/tvChannelDetail/94) [不息传播](https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=24290456&quality=0) [深圳众创TV](https://zhfw-h5-t.szlg.com/) [郑州教育](https://web.chinamcloud.com/yszh32//wz/zb/index.shtml) [南京文旅纪录](http://www.nbs.cn/live/)
 
 ## 找到我们
 [哔哩哔哩：@舟行团](http://space.bilibili.com/385765041)
