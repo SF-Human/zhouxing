@@ -37,4 +37,6 @@
 ## 找到我们
 [哔哩哔哩：@舟行团](http://space.bilibili.com/385765041)
 
+[西瓜视频：@舟行团](https://v.douyin.com/iDhhy64E/)
+
 [微博：@远舟团_Channel](https://weibo.com/u/7789279701)（因更名次数用完，微博暂无法更改为新名字，请谅解）
