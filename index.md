@@ -24,7 +24,7 @@
 [不息主频](https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=24290456&quality=0) [Carrot TV](https://carrottv.com.cn/live.html) [神兵卡通](http://old.shenbingcartoon.com)
 
 ### (NEW!)订阅[舟行纪实直播源列表](https://raw.githubusercontent.com/SF-Human/sf-human.github.io/refs/heads/main/tvlist.txt)
-使用你喜欢的直播软件（如DIYP）订阅，即可随时收看舟行纪实频道来自全国各地的纪录片、教育教学节目。列表定期更新。
+使用你喜欢的直播软件（如DIYP）订阅，即可随时收看舟行纪实直播频道以及来自全国各地的电视、网络频道播出的纪录片、教育教学节目。列表定期更新。
 
 直播源版权归版权方所有，本列表仅作为收集整理、学习交流之用，不存储任何版权信息。如果喜欢，可以前往上方的官网链接收看，或订阅当地的有线电视、IPTV服务以支持电视台官方。
 
