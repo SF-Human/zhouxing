@@ -4,13 +4,13 @@
 ![IMG_20240607_144114](https://github.com/user-attachments/assets/45299487-ff61-4b36-bba1-9519b9937b67)
 
 ## 频道直播
-<iframe src="https://sf-human.github.io/m3u8-player/player/#https://vdsbkup-tcloud-pull.hydun.com/live/SFhuman.m3u8" width="320px" height="180px"></iframe>
+<iframe src="https://sf-human.github.io/m3u8-player/player/#https://vdsbkup-tcloud-pull.hydun.com/live/ZhouXing.m3u8" width="320px" height="180px"></iframe>
 
 如无法播放，可能是直播尚未开始，可以先看看下方的其他频道。
 
 暂定试播时间：节假日12:00-15:00左右
 
-[Powered by VDS LiveStream](http://lsnext.vds.pub/room/SFhuman)
+[Powered by VDS LiveStream](http://lsnext.vds.pub/room/ZhouXing)
 
 ## 音乐电台
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=9293774299&auto=1&height=430"></iframe>
