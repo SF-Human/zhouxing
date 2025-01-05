@@ -21,7 +21,7 @@
 以下频道官网直播链接未知，如找到官网会第一时间替换为官网直播链接：[惠州一套](https://sf-human.github.io/m3u8-player/player/#http://b.ds2.hztvmg.com/AppName/StreamName.m3u8) [淮北矿业](https://sf-human.github.io/m3u8-player/player/#http://xcblive.hbcoal.com/3/sd/live.m3u8) [郑州铁路](https://sf-human.github.io/m3u8-player/player/#http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8) [人民铁道](https://sf-human.github.io/m3u8-player/player/#http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8) [伊春绿色林都](https://sf-human.github.io/m3u8-player/player/#https://liveplaysr.dbw.cn:443/lsdream/6i4bn74/2000/live.m3u8)
 
 ### 更多直播频道
-[不息主频](https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=24290456&quality=0) [Carrot TV](https://carrottv.com.cn/live.html) [神兵卡通](http://old.shenbingcartoon.com)
+[不息主频](https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=24290456&quality=0) [Carrot TV](https://carrottv.com.cn/live.html) [神兵卡通](http://old.shenbingcartoon.com) [江海卫视](https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=7532238&quality=0)
 
 ### (NEW!)订阅[舟行纪实直播源列表](https://raw.githubusercontent.com/SF-Human/sf-human.github.io/refs/heads/main/tvlist.txt)
 使用你喜欢的直播软件（如DIYP）订阅，即可随时收看舟行纪实直播频道以及来自全国各地的电视、网络频道播出的纪录片、教育教学节目。列表定期更新。
@@ -31,6 +31,8 @@
 ### (即将上线...) 舟行TV手机客户端
 团长先给大家画个饼，应用正在火热内测中，预计明年元旦公测。
 
+（最新消息：应用已跳票，公测时间待定）
+
 ![Screenshot_20241125_185750_com zhouxing tv](https://github.com/user-attachments/assets/849652e4-e46d-47e2-821c-c7b0a2d51b1d)
 
 
@@ -39,4 +41,4 @@
 
 [西瓜视频：@舟行团](https://v.douyin.com/iDhhy64E/)
 
-[微博：@远舟团_Channel](https://weibo.com/u/7789279701)（因更名次数用完，微博暂无法更改为新名字，请谅解）
+[微博：@舟行团](https://weibo.com/u/7789279701)
